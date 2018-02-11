@@ -1,0 +1,1226 @@
+INFO    2018-02-03 12:47:16,825 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-03 12:47:23,783 [main] TestVehicleDetails  - govurl: https://www.gov.uk/get-vehicle-information-from-dvla
+INFO    2018-02-03 12:47:32,370 [main] TestVehicleDetails  - Start Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-03 12:47:33,469 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-03 12:47:33,469 [main] TestVehicleDetails  - color matches
+INFO    2018-02-03 12:47:33,989 [main] TestVehicleDetails  - End Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-03 12:47:34,348 [main] TestVehicleDetails  - Start Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-03 12:47:35,382 [main] TestVehicleDetails  - You must enter your registration number in a valid format
+INFO    2018-02-03 12:47:35,382 [main] TestVehicleDetails  - End Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-03 12:47:36,146 [main] TestVehicleDetails  - Start Test Execution for Registeration number: HN58KZA
+INFO    2018-02-03 12:47:37,208 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-03 12:47:37,208 [main] TestVehicleDetails  - color matches
+INFO    2018-02-03 12:47:37,693 [main] TestVehicleDetails  - End Test Execution for Registeration number: HN58KZA
+INFO    2018-02-03 12:47:38,444 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-03 12:47:39,484 [main] TestVehicleDetails  - maker name mismatches
+INFO    2018-02-03 12:47:39,484 [main] TestVehicleDetails  - color matches
+INFO    2018-02-03 12:47:40,036 [main] TestVehicleDetails  - End Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-03 12:47:40,800 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-03 12:47:41,891 [main] TestVehicleDetails  - maker name mismatches
+INFO    2018-02-03 12:47:41,891 [main] TestVehicleDetails  - color matches
+INFO    2018-02-03 12:47:42,436 [main] TestVehicleDetails  - End Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-03 12:47:43,224 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-03 12:47:44,317 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-03 12:47:44,317 [main] TestVehicleDetails  - color matches
+INFO    2018-02-03 12:47:44,787 [main] TestVehicleDetails  - End Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-03 13:01:44,648 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-03 13:02:31,169 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-03 13:03:25,443 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-03 13:11:14,672 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-03 13:14:14,980 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-03 13:14:21,329 [main] TestVehicleDetails  - govurl: https://www.gov.uk/get-vehicle-information-from-dvla
+INFO    2018-02-03 13:14:31,160 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-03 13:14:31,160 [main] TestVehicleDetails  - Start Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-03 13:14:32,265 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-03 13:14:32,265 [main] TestVehicleDetails  - color matches
+INFO    2018-02-03 13:14:32,844 [main] TestVehicleDetails  - End Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-03 13:14:32,844 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-03 13:14:33,204 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-03 13:14:33,204 [main] TestVehicleDetails  - Start Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-03 13:14:34,258 [main] TestVehicleDetails  - You must enter your registration number in a valid format
+INFO    2018-02-03 13:14:34,258 [main] TestVehicleDetails  - End Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-03 13:14:34,258 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-03 13:14:34,995 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-03 13:14:34,995 [main] TestVehicleDetails  - Start Test Execution for Registeration number: HN58KZA
+INFO    2018-02-03 13:14:36,043 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-03 13:14:36,043 [main] TestVehicleDetails  - color matches
+INFO    2018-02-03 13:14:36,512 [main] TestVehicleDetails  - End Test Execution for Registeration number: HN58KZA
+INFO    2018-02-03 13:14:36,512 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-03 13:14:37,279 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-03 13:14:37,279 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-03 13:14:38,359 [Forwarding getElementText on session 35bf20da-a840-4e9f-8a32-eb575d4f5fb0 to remote] org.apache.http.impl.execchain.RetryExec  - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:2002: Permission denied: connect
+INFO    2018-02-03 13:14:38,359 [Forwarding getElementText on session 35bf20da-a840-4e9f-8a32-eb575d4f5fb0 to remote] org.apache.http.impl.execchain.RetryExec  - Retrying request to {}->http://localhost:2002
+INFO    2018-02-03 13:14:38,359 [Forwarding getElementText on session 35bf20da-a840-4e9f-8a32-eb575d4f5fb0 to remote] org.apache.http.impl.execchain.RetryExec  - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:2002: Permission denied: connect
+INFO    2018-02-03 13:14:38,359 [Forwarding getElementText on session 35bf20da-a840-4e9f-8a32-eb575d4f5fb0 to remote] org.apache.http.impl.execchain.RetryExec  - Retrying request to {}->http://localhost:2002
+INFO    2018-02-03 13:14:38,359 [Forwarding getElementText on session 35bf20da-a840-4e9f-8a32-eb575d4f5fb0 to remote] org.apache.http.impl.execchain.RetryExec  - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:2002: Permission denied: connect
+INFO    2018-02-03 13:14:38,359 [Forwarding getElementText on session 35bf20da-a840-4e9f-8a32-eb575d4f5fb0 to remote] org.apache.http.impl.execchain.RetryExec  - Retrying request to {}->http://localhost:2002
+ERROR   2018-02-03 13:14:38,359 [main] TestVehicleDetails  - Exception: org.openqa.selenium.WebDriverException: java.net.SocketException: Permission denied: connect
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T19:05:32.194Z'
+System info: host: 'CHINNI', ip: '192.168.0.104', os.name: 'Windows 8', os.arch: 'x86', os.version: '6.2', java.version: '1.8.0_31'
+Driver info: driver.version: RemoteWebDriver
+INFO    2018-02-03 13:14:38,359 [Forwarding close on session 35bf20da-a840-4e9f-8a32-eb575d4f5fb0 to remote] org.apache.http.impl.execchain.RetryExec  - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:2002: Permission denied: connect
+INFO    2018-02-03 13:14:38,359 [Forwarding close on session 35bf20da-a840-4e9f-8a32-eb575d4f5fb0 to remote] org.apache.http.impl.execchain.RetryExec  - Retrying request to {}->http://localhost:2002
+INFO    2018-02-03 13:14:38,359 [Forwarding close on session 35bf20da-a840-4e9f-8a32-eb575d4f5fb0 to remote] org.apache.http.impl.execchain.RetryExec  - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:2002: Permission denied: connect
+INFO    2018-02-03 13:14:38,359 [Forwarding close on session 35bf20da-a840-4e9f-8a32-eb575d4f5fb0 to remote] org.apache.http.impl.execchain.RetryExec  - Retrying request to {}->http://localhost:2002
+INFO    2018-02-03 13:14:38,359 [Forwarding close on session 35bf20da-a840-4e9f-8a32-eb575d4f5fb0 to remote] org.apache.http.impl.execchain.RetryExec  - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:2002: Permission denied: connect
+INFO    2018-02-03 13:14:38,359 [Forwarding close on session 35bf20da-a840-4e9f-8a32-eb575d4f5fb0 to remote] org.apache.http.impl.execchain.RetryExec  - Retrying request to {}->http://localhost:2002
+INFO    2018-02-03 13:16:58,931 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-03 13:17:05,324 [main] TestVehicleDetails  - govurl: https://www.gov.uk/get-vehicle-information-from-dvla
+INFO    2018-02-03 13:17:13,559 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-03 13:17:13,559 [main] TestVehicleDetails  - Start Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-03 13:17:14,639 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-03 13:17:14,639 [main] TestVehicleDetails  - color matches
+INFO    2018-02-03 13:17:15,111 [main] TestVehicleDetails  - End Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-03 13:17:15,111 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-03 13:17:15,470 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-03 13:17:15,470 [main] TestVehicleDetails  - Start Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-03 13:17:16,534 [main] TestVehicleDetails  - You must enter your registration number in a valid format
+INFO    2018-02-03 13:17:16,534 [main] TestVehicleDetails  - End Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-03 13:17:16,534 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-03 13:17:17,223 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-03 13:17:17,223 [main] TestVehicleDetails  - Start Test Execution for Registeration number: HN58KZA
+INFO    2018-02-03 13:17:18,271 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-03 13:17:18,271 [main] TestVehicleDetails  - color matches
+INFO    2018-02-03 13:17:18,741 [main] TestVehicleDetails  - End Test Execution for Registeration number: HN58KZA
+INFO    2018-02-03 13:17:18,741 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-03 13:17:19,460 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-03 13:17:19,460 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-03 13:17:20,544 [main] TestVehicleDetails  - maker name mismatches
+INFO    2018-02-03 13:17:20,544 [main] TestVehicleDetails  - color matches
+INFO    2018-02-03 13:17:21,050 [main] TestVehicleDetails  - End Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-03 13:17:21,050 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-03 13:17:21,707 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-03 13:17:21,707 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-03 13:17:22,820 [main] TestVehicleDetails  - maker name mismatches
+INFO    2018-02-03 13:17:22,820 [main] TestVehicleDetails  - color matches
+INFO    2018-02-03 13:17:23,306 [main] TestVehicleDetails  - End Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-03 13:17:23,306 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-03 13:17:24,026 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-03 13:17:24,026 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-03 13:17:25,122 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-03 13:17:25,122 [main] TestVehicleDetails  - color matches
+INFO    2018-02-03 13:17:25,671 [main] TestVehicleDetails  - End Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-03 13:17:25,671 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:16:01,288 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-04 13:16:11,452 [main] TestVehicleDetails  - govurl: https://www.gov.uk/get-vehicle-information-from-dvla
+INFO    2018-02-04 13:16:21,924 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:16:21,925 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-04 13:16:23,067 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:16:23,068 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:16:23,619 [main] TestVehicleDetails  - End Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-04 13:16:23,619 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:16:24,470 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:16:24,471 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LK16WPT
+INFO    2018-02-04 13:16:25,540 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:16:25,540 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:16:26,011 [main] TestVehicleDetails  - End Test Execution for Registeration number: LK16WPT
+INFO    2018-02-04 13:16:26,011 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:16:26,800 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:16:26,800 [main] TestVehicleDetails  - Start Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-04 13:16:27,904 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:16:27,904 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:16:28,393 [main] TestVehicleDetails  - End Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-04 13:16:28,393 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:16:29,208 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:16:29,208 [main] TestVehicleDetails  - Start Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-04 13:16:30,300 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:16:30,300 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:16:30,820 [main] TestVehicleDetails  - End Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-04 13:16:30,820 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:16:32,020 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:16:32,021 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-04 13:16:33,063 [main] TestVehicleDetails  - Invalid Registeration number: Y909 TRD
+INFO    2018-02-04 13:16:33,821 [main] TestVehicleDetails  - End Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-04 13:16:33,821 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:16:34,682 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:16:34,682 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Kl51aej
+INFO    2018-02-04 13:16:35,767 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:16:35,767 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:16:36,175 [main] TestVehicleDetails  - End Test Execution for Registeration number: Kl51aej
+INFO    2018-02-04 13:16:36,175 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:16:37,002 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:16:37,003 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KM12 AVC
+INFO    2018-02-04 13:16:38,098 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:16:38,098 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:16:38,582 [main] TestVehicleDetails  - End Test Execution for Registeration number: KM12 AVC
+INFO    2018-02-04 13:16:38,582 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:16:39,341 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:16:39,341 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Gv55 Lhw
+INFO    2018-02-04 13:16:40,401 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:16:40,401 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:16:40,882 [main] TestVehicleDetails  - End Test Execution for Registeration number: Gv55 Lhw
+INFO    2018-02-04 13:16:40,882 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:16:41,661 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:16:41,661 [main] TestVehicleDetails  - Start Test Execution for Registeration number: VU66ALA
+INFO    2018-02-04 13:16:42,761 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:16:42,761 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:16:43,242 [main] TestVehicleDetails  - End Test Execution for Registeration number: VU66ALA
+INFO    2018-02-04 13:16:43,243 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:19:28,185 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-04 13:19:33,864 [main] TestVehicleDetails  - $$$$$$$$$$$$$4vehicles.size()9
+INFO    2018-02-04 13:19:33,864 [main] TestVehicleDetails  - govurl: https://www.gov.uk/get-vehicle-information-from-dvla
+INFO    2018-02-04 13:19:44,814 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:19:44,814 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-04 13:19:45,970 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:19:45,970 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:19:46,528 [main] TestVehicleDetails  - End Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-04 13:19:46,529 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:19:47,338 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:19:47,338 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LK16WPT
+INFO    2018-02-04 13:19:48,389 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:19:48,389 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:19:48,920 [main] TestVehicleDetails  - End Test Execution for Registeration number: LK16WPT
+INFO    2018-02-04 13:19:48,920 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:19:49,667 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:19:49,667 [main] TestVehicleDetails  - Start Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-04 13:19:50,755 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:19:50,755 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:19:51,317 [main] TestVehicleDetails  - End Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-04 13:19:51,317 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:19:52,093 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:19:52,093 [main] TestVehicleDetails  - Start Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-04 13:19:53,229 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:19:53,229 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:19:53,715 [main] TestVehicleDetails  - End Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-04 13:19:53,715 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:19:54,517 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:19:54,517 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-04 13:19:55,560 [main] TestVehicleDetails  - Invalid Registeration number: Y909 TRD
+INFO    2018-02-04 13:19:56,311 [main] TestVehicleDetails  - End Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-04 13:19:56,311 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:19:57,130 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:19:57,130 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Kl51aej
+INFO    2018-02-04 13:19:58,189 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:19:58,189 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:19:58,624 [main] TestVehicleDetails  - End Test Execution for Registeration number: Kl51aej
+INFO    2018-02-04 13:19:58,624 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:19:59,432 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:19:59,432 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KM12 AVC
+INFO    2018-02-04 13:20:00,552 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:20:00,552 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:20:01,068 [main] TestVehicleDetails  - End Test Execution for Registeration number: KM12 AVC
+INFO    2018-02-04 13:20:01,068 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:20:01,947 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:20:01,947 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Gv55 Lhw
+INFO    2018-02-04 13:20:03,027 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:20:03,027 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:20:03,587 [main] TestVehicleDetails  - End Test Execution for Registeration number: Gv55 Lhw
+INFO    2018-02-04 13:20:03,587 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:20:04,307 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:20:04,307 [main] TestVehicleDetails  - Start Test Execution for Registeration number: VU66ALA
+INFO    2018-02-04 13:20:05,403 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:20:05,403 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:20:05,961 [main] TestVehicleDetails  - End Test Execution for Registeration number: VU66ALA
+INFO    2018-02-04 13:20:05,961 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:21:58,411 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-04 13:22:03,978 [main] TestVehicleDetails  - ##############vehicles.size()0
+INFO    2018-02-04 13:22:03,980 [main] TestVehicleDetails  - $$$$$$$$$$$$$4vehicles.size()9
+INFO    2018-02-04 13:22:03,981 [main] TestVehicleDetails  - govurl: https://www.gov.uk/get-vehicle-information-from-dvla
+INFO    2018-02-04 13:25:40,005 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-04 13:25:48,369 [main] TestVehicleDetails  - ##############vehicles.size()6
+INFO    2018-02-04 13:25:48,370 [main] TestVehicleDetails  - $$$$$$$$$$$$$4vehicles.size()15
+INFO    2018-02-04 13:25:48,370 [main] TestVehicleDetails  - govurl: https://www.gov.uk/get-vehicle-information-from-dvla
+INFO    2018-02-04 13:25:57,485 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:25:57,486 [main] TestVehicleDetails  - Start Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-04 13:25:58,547 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:25:58,547 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:25:59,081 [main] TestVehicleDetails  - End Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-04 13:25:59,082 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:25:59,418 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:25:59,418 [main] TestVehicleDetails  - Start Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-04 13:26:00,473 [main] TestVehicleDetails  - You must enter your registration number in a valid format
+INFO    2018-02-04 13:26:00,473 [main] TestVehicleDetails  - End Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-04 13:26:00,473 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:26:01,373 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:26:01,373 [main] TestVehicleDetails  - Start Test Execution for Registeration number: HN58KZA
+INFO    2018-02-04 13:26:02,497 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:26:02,497 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:26:03,052 [main] TestVehicleDetails  - End Test Execution for Registeration number: HN58KZA
+INFO    2018-02-04 13:26:03,052 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:26:03,903 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:26:03,903 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-04 13:26:04,950 [main] TestVehicleDetails  - maker name mismatches
+INFO    2018-02-04 13:26:04,950 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:26:05,467 [main] TestVehicleDetails  - End Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-04 13:26:05,467 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:26:06,261 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:26:06,261 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-04 13:26:07,304 [main] TestVehicleDetails  - maker name mismatches
+INFO    2018-02-04 13:26:07,304 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:26:07,799 [main] TestVehicleDetails  - End Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-04 13:26:07,799 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:26:08,856 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:26:08,856 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-04 13:26:09,964 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:26:09,964 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:26:10,505 [main] TestVehicleDetails  - End Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-04 13:26:10,505 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:26:11,297 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:26:11,297 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-04 13:26:12,363 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:26:12,363 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:26:12,863 [main] TestVehicleDetails  - End Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-04 13:26:12,863 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:26:18,179 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:26:18,179 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LK16WPT
+ERROR   2018-02-04 13:26:19,322 [main] TestVehicleDetails  - Exception: org.openqa.selenium.NoSuchElementException: Unable to locate element: #Vrm\-error
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T19:05:32.194Z'
+System info: host: 'CHINNI', ip: '192.168.1.16', os.name: 'Windows 8', os.arch: 'x86', os.version: '6.2', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 58.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 7028, moz:profile: C:\Users\Nareshchinni\AppDa..., moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.2, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 0e67cc74-8106-4ae3-a443-4f7c02ac14e4
+*** Element info: {Using=id, value=Vrm-error}
+INFO    2018-02-04 13:28:41,691 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-04 13:28:49,791 [main] TestVehicleDetails  - ##############vehicles.size()6
+INFO    2018-02-04 13:28:49,791 [main] TestVehicleDetails  - $$$$$$$$$$$$$4vehicles.size()15
+INFO    2018-02-04 13:28:49,791 [main] TestVehicleDetails  - govurl: https://www.gov.uk/get-vehicle-information-from-dvla
+INFO    2018-02-04 13:28:59,750 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:28:59,750 [main] TestVehicleDetails  - Start Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-04 13:29:01,842 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:29:01,842 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:29:02,429 [main] TestVehicleDetails  - End Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-04 13:29:02,429 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:02,771 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:02,771 [main] TestVehicleDetails  - Start Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-04 13:29:04,844 [main] TestVehicleDetails  - You must enter your registration number in a valid format
+INFO    2018-02-04 13:29:04,844 [main] TestVehicleDetails  - End Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-04 13:29:04,844 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:06,185 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:06,185 [main] TestVehicleDetails  - Start Test Execution for Registeration number: HN58KZA
+INFO    2018-02-04 13:29:08,259 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:29:08,259 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:29:08,764 [main] TestVehicleDetails  - End Test Execution for Registeration number: HN58KZA
+INFO    2018-02-04 13:29:08,764 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:09,516 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:09,516 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-04 13:29:11,610 [main] TestVehicleDetails  - maker name mismatches
+INFO    2018-02-04 13:29:11,610 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:29:12,113 [main] TestVehicleDetails  - End Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-04 13:29:12,113 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:12,852 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:12,852 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-04 13:29:14,911 [main] TestVehicleDetails  - maker name mismatches
+INFO    2018-02-04 13:29:14,911 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:29:15,480 [main] TestVehicleDetails  - End Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-04 13:29:15,480 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:16,213 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:16,213 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-04 13:29:18,299 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:29:18,300 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:29:18,828 [main] TestVehicleDetails  - End Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-04 13:29:18,828 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:19,565 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:19,565 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-04 13:29:21,608 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:29:21,608 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:29:22,101 [main] TestVehicleDetails  - End Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-04 13:29:22,101 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:22,895 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:22,895 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LK16WPT
+INFO    2018-02-04 13:29:24,969 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:29:24,969 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:29:25,432 [main] TestVehicleDetails  - End Test Execution for Registeration number: LK16WPT
+INFO    2018-02-04 13:29:25,432 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:26,166 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:26,166 [main] TestVehicleDetails  - Start Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-04 13:29:28,243 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:29:28,243 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:29:28,754 [main] TestVehicleDetails  - End Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-04 13:29:28,754 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:29,495 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:29,495 [main] TestVehicleDetails  - Start Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-04 13:29:31,549 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:29:31,549 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:29:32,067 [main] TestVehicleDetails  - End Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-04 13:29:32,067 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:32,832 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:32,833 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-04 13:29:34,870 [main] TestVehicleDetails  - Invalid Registeration number: Y909 TRD
+INFO    2018-02-04 13:29:35,678 [main] TestVehicleDetails  - End Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-04 13:29:35,678 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:36,534 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:36,534 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Kl51aej
+INFO    2018-02-04 13:29:38,619 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:29:38,620 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:29:38,970 [main] TestVehicleDetails  - End Test Execution for Registeration number: Kl51aej
+INFO    2018-02-04 13:29:38,971 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:39,833 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:39,833 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KM12 AVC
+INFO    2018-02-04 13:29:41,906 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:29:41,906 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:29:42,439 [main] TestVehicleDetails  - End Test Execution for Registeration number: KM12 AVC
+INFO    2018-02-04 13:29:42,439 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:43,292 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:43,293 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Gv55 Lhw
+INFO    2018-02-04 13:29:45,389 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:29:45,389 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:29:45,942 [main] TestVehicleDetails  - End Test Execution for Registeration number: Gv55 Lhw
+INFO    2018-02-04 13:29:45,942 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:46,780 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:29:46,781 [main] TestVehicleDetails  - Start Test Execution for Registeration number: VU66ALA
+INFO    2018-02-04 13:29:48,823 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:29:48,824 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:29:49,326 [main] TestVehicleDetails  - End Test Execution for Registeration number: VU66ALA
+INFO    2018-02-04 13:29:49,326 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:33:18,502 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-04 13:33:25,219 [main] TestVehicleDetails  - govurl: https://www.gov.uk/get-vehicle-information-from-dvla
+INFO    2018-02-04 13:33:37,352 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:33:37,352 [main] TestVehicleDetails  - Start Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-04 13:33:39,454 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:33:39,455 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:33:39,993 [main] TestVehicleDetails  - End Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-04 13:33:39,993 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:33:40,341 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:33:40,342 [main] TestVehicleDetails  - Start Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-04 13:33:42,415 [main] TestVehicleDetails  - You must enter your registration number in a valid format
+INFO    2018-02-04 13:33:42,415 [main] TestVehicleDetails  - End Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-04 13:33:42,415 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:33:43,819 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:33:43,819 [main] TestVehicleDetails  - Start Test Execution for Registeration number: HN58KZA
+INFO    2018-02-04 13:33:45,900 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:33:45,900 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:33:46,425 [main] TestVehicleDetails  - End Test Execution for Registeration number: HN58KZA
+INFO    2018-02-04 13:33:46,425 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:33:47,326 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:33:47,326 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-04 13:33:49,421 [main] TestVehicleDetails  - maker name mismatches
+INFO    2018-02-04 13:33:49,421 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:33:49,908 [main] TestVehicleDetails  - End Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-04 13:33:49,908 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:33:52,321 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:33:52,322 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-04 13:33:54,407 [main] TestVehicleDetails  - maker name mismatches
+INFO    2018-02-04 13:33:54,407 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:33:54,911 [main] TestVehicleDetails  - End Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-04 13:33:54,911 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:33:55,946 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:33:55,946 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-04 13:33:58,072 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:33:58,072 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:33:58,556 [main] TestVehicleDetails  - End Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-04 13:33:58,556 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:33:59,319 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:33:59,319 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-04 13:34:01,392 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:34:01,392 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:34:01,950 [main] TestVehicleDetails  - End Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-04 13:34:01,951 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:34:02,806 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:34:02,806 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LK16WPT
+INFO    2018-02-04 13:34:04,883 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:34:04,883 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:34:05,505 [main] TestVehicleDetails  - End Test Execution for Registeration number: LK16WPT
+INFO    2018-02-04 13:34:05,505 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:34:06,674 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:34:06,675 [main] TestVehicleDetails  - Start Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-04 13:34:08,753 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:34:08,753 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:34:09,481 [main] TestVehicleDetails  - End Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-04 13:34:09,481 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:34:10,437 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:34:10,437 [main] TestVehicleDetails  - Start Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-04 13:34:12,535 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:34:12,535 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:34:13,035 [main] TestVehicleDetails  - End Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-04 13:34:13,035 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:34:14,152 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:34:14,153 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-04 13:34:16,185 [main] TestVehicleDetails  - Invalid Registeration number: Y909 TRD
+INFO    2018-02-04 13:34:17,070 [main] TestVehicleDetails  - End Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-04 13:34:17,071 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:34:18,043 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:34:18,043 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Kl51aej
+INFO    2018-02-04 13:34:20,094 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:34:20,094 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:34:20,472 [main] TestVehicleDetails  - End Test Execution for Registeration number: Kl51aej
+INFO    2018-02-04 13:34:20,472 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:34:21,277 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:34:21,277 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KM12 AVC
+INFO    2018-02-04 13:34:23,325 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:34:23,325 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:34:23,803 [main] TestVehicleDetails  - End Test Execution for Registeration number: KM12 AVC
+INFO    2018-02-04 13:34:23,803 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:34:24,660 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:34:24,660 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Gv55 Lhw
+INFO    2018-02-04 13:34:26,760 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:34:26,760 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:34:27,266 [main] TestVehicleDetails  - End Test Execution for Registeration number: Gv55 Lhw
+INFO    2018-02-04 13:34:27,266 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:34:28,007 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-04 13:34:28,008 [main] TestVehicleDetails  - Start Test Execution for Registeration number: VU66ALA
+INFO    2018-02-04 13:34:30,082 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-04 13:34:30,083 [main] TestVehicleDetails  - color matches
+INFO    2018-02-04 13:34:30,656 [main] TestVehicleDetails  - End Test Execution for Registeration number: VU66ALA
+INFO    2018-02-04 13:34:30,656 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 15:53:58,289 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-10 15:54:09,251 [main] TestVehicleDetails  - govurl: https://www.gov.uk/get-vehicle-information-from-dvla
+INFO    2018-02-10 15:54:18,975 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 15:54:18,975 [main] TestVehicleDetails  - Start Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-10 15:54:21,023 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 15:54:21,055 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 15:54:21,539 [main] TestVehicleDetails  - End Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-10 15:54:21,539 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 15:54:21,930 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 15:54:21,930 [main] TestVehicleDetails  - Start Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-10 15:54:23,993 [main] TestVehicleDetails  - You must enter your registration number in a valid format
+INFO    2018-02-10 15:54:23,993 [main] TestVehicleDetails  - End Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-10 15:54:23,993 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 15:54:25,197 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 15:54:25,197 [main] TestVehicleDetails  - Start Test Execution for Registeration number: HN58KZA
+INFO    2018-02-10 15:54:27,260 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 15:54:27,260 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 15:54:27,730 [main] TestVehicleDetails  - End Test Execution for Registeration number: HN58KZA
+INFO    2018-02-10 15:54:27,730 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 15:54:28,433 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 15:54:28,433 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-10 15:54:30,497 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 16:00:25,510 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-10 16:00:32,264 [main] TestVehicleDetails  - govurl: https://www.gov.uk/get-vehicle-information-from-dvla
+ERROR   2018-02-10 16:00:49,563 [main] TestVehicleDetails  - Exception: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for at least one condition to be valid: visibility of element located by By.id: Vrm (tried for 10 second(s) with 500 MILLISECONDS interval)
+INFO    2018-02-10 16:01:11,044 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-10 16:01:17,532 [main] TestVehicleDetails  - govurl: https://www.gov.uk/get-vehicle-information-from-dvla
+INFO    2018-02-10 16:01:26,080 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:26,080 [main] TestVehicleDetails  - Start Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-10 16:01:28,144 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 16:01:28,144 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 16:01:28,708 [main] TestVehicleDetails  - End Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-10 16:01:28,708 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:29,083 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:29,083 [main] TestVehicleDetails  - Start Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-10 16:01:31,130 [main] TestVehicleDetails  - You must enter your registration number in a valid format
+INFO    2018-02-10 16:01:31,130 [main] TestVehicleDetails  - End Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-10 16:01:31,130 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:32,428 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:32,428 [main] TestVehicleDetails  - Start Test Execution for Registeration number: HN58KZA
+INFO    2018-02-10 16:01:34,507 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 16:01:34,507 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 16:01:34,977 [main] TestVehicleDetails  - End Test Execution for Registeration number: HN58KZA
+INFO    2018-02-10 16:01:34,977 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:35,695 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:35,695 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-10 16:01:37,790 [main] TestVehicleDetails  - maker name mismatches
+INFO    2018-02-10 16:01:37,790 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 16:01:38,229 [main] TestVehicleDetails  - End Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-10 16:01:38,229 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:38,932 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:38,932 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-10 16:01:41,059 [main] TestVehicleDetails  - maker name mismatches
+INFO    2018-02-10 16:01:41,059 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 16:01:41,497 [main] TestVehicleDetails  - End Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-10 16:01:41,497 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:42,294 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:42,294 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-10 16:01:44,358 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 16:01:44,358 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 16:01:44,781 [main] TestVehicleDetails  - End Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-10 16:01:44,781 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:45,500 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:45,500 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-10 16:01:47,595 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 16:01:47,595 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 16:01:48,096 [main] TestVehicleDetails  - End Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-10 16:01:48,096 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:48,814 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:48,814 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LK16WPT
+INFO    2018-02-10 16:01:50,910 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 16:01:50,910 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 16:01:51,364 [main] TestVehicleDetails  - End Test Execution for Registeration number: LK16WPT
+INFO    2018-02-10 16:01:51,364 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:52,099 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:52,099 [main] TestVehicleDetails  - Start Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-10 16:01:54,194 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 16:01:54,194 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 16:01:54,664 [main] TestVehicleDetails  - End Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-10 16:01:54,664 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:55,805 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:55,805 [main] TestVehicleDetails  - Start Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-10 16:01:57,915 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 16:01:57,915 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 16:01:58,385 [main] TestVehicleDetails  - End Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-10 16:01:58,385 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:59,088 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:01:59,088 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-10 16:02:01,121 [main] TestVehicleDetails  - Invalid Registeration number: Y909 TRD
+INFO    2018-02-10 16:02:01,888 [main] TestVehicleDetails  - End Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-10 16:02:01,888 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:02:02,778 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:02:02,778 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Kl51aej
+INFO    2018-02-10 16:02:04,873 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 16:02:04,873 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 16:02:05,218 [main] TestVehicleDetails  - End Test Execution for Registeration number: Kl51aej
+INFO    2018-02-10 16:02:05,218 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:02:05,937 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:02:05,937 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KM12 AVC
+INFO    2018-02-10 16:02:08,000 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 16:02:08,000 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 16:02:08,517 [main] TestVehicleDetails  - End Test Execution for Registeration number: KM12 AVC
+INFO    2018-02-10 16:02:08,517 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:02:09,236 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:02:09,236 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Gv55 Lhw
+INFO    2018-02-10 16:02:11,331 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 16:02:11,331 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 16:02:11,754 [main] TestVehicleDetails  - End Test Execution for Registeration number: Gv55 Lhw
+INFO    2018-02-10 16:02:11,754 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:02:12,457 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 16:02:12,457 [main] TestVehicleDetails  - Start Test Execution for Registeration number: VU66ALA
+INFO    2018-02-10 16:02:14,552 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 16:02:14,552 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 16:02:14,990 [main] TestVehicleDetails  - End Test Execution for Registeration number: VU66ALA
+INFO    2018-02-10 16:02:14,990 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:35:59,334 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-10 12:37:18,546 [main] TestVehicleDetails  - govurl: https://www.gov.uk/get-vehicle-information-from-dvla
+INFO    2018-02-10 12:37:42,990 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:37:43,036 [main] TestVehicleDetails  - Start Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-10 12:37:45,131 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 12:37:45,131 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 12:37:45,407 [main] TestVehicleDetails  - End Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-10 12:37:45,407 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:37:45,791 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:37:45,791 [main] TestVehicleDetails  - Start Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-10 12:37:47,845 [main] TestVehicleDetails  - You must enter your registration number in a valid format
+INFO    2018-02-10 12:37:47,845 [main] TestVehicleDetails  - End Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-10 12:37:47,845 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:37:48,530 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:37:48,530 [main] TestVehicleDetails  - Start Test Execution for Registeration number: HN58KZA
+INFO    2018-02-10 12:37:50,627 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 12:37:50,669 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 12:37:50,967 [main] TestVehicleDetails  - End Test Execution for Registeration number: HN58KZA
+INFO    2018-02-10 12:37:50,967 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:37:51,441 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:37:51,441 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-10 12:37:53,495 [main] TestVehicleDetails  - maker name mismatches
+INFO    2018-02-10 12:37:53,495 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 12:37:53,701 [main] TestVehicleDetails  - End Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-10 12:37:53,702 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:37:54,223 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:37:54,223 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-10 12:37:56,286 [main] TestVehicleDetails  - maker name mismatches
+INFO    2018-02-10 12:37:56,286 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 12:37:56,468 [main] TestVehicleDetails  - End Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-10 12:37:56,468 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:37:57,057 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:37:57,057 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-10 12:37:59,117 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 12:37:59,117 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 12:37:59,305 [main] TestVehicleDetails  - End Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-10 12:37:59,306 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:37:59,779 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:37:59,780 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-10 12:38:01,831 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 12:38:01,831 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 12:38:02,043 [main] TestVehicleDetails  - End Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-10 12:38:02,043 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:38:02,528 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:38:02,528 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LK16WPT
+INFO    2018-02-10 12:38:04,584 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 12:38:04,584 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 12:38:04,834 [main] TestVehicleDetails  - End Test Execution for Registeration number: LK16WPT
+INFO    2018-02-10 12:38:04,835 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:38:05,408 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:38:05,408 [main] TestVehicleDetails  - Start Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-10 12:38:07,495 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 12:38:07,495 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 12:38:07,728 [main] TestVehicleDetails  - End Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-10 12:38:07,748 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:38:08,465 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:38:08,465 [main] TestVehicleDetails  - Start Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-10 12:38:10,517 [main] TestVehicleDetails  - maker name matches
+INFO    2018-02-10 12:38:10,517 [main] TestVehicleDetails  - color matches
+INFO    2018-02-10 12:38:10,740 [main] TestVehicleDetails  - End Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-10 12:38:10,741 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:38:11,307 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:38:11,307 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-10 12:38:13,329 [main] TestVehicleDetails  - Invalid Registeration number: Y909 TRD
+INFO    2018-02-10 12:38:13,643 [main] TestVehicleDetails  - End Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-10 12:38:13,643 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:38:18,866 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 12:38:18,867 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Kl51aej
+ERROR   2018-02-10 12:38:21,775 [main] TestVehicleDetails  - Exception: org.openqa.selenium.NoSuchElementException: Unable to locate element: /html/body/main/form/div/div/ul/li[2]/span[2]/strong
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T19:05:32.194Z'
+System info: host: 'Srinivass-MBP', ip: '192.168.0.6', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.3', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 58.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 69210, moz:profile: /var/folders/yj/_0wt8b_s7mv..., moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 17.4.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: ba452d8f-ef10-1e46-9b3d-73c835c5d32f
+*** Element info: {Using=xpath, value=/html/body/main/form/div/div/ul/li[2]/span[2]/strong}
+INFO    2018-02-10 13:03:17,748 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-10 13:03:56,538 [main] TestVehicleDetails  - govurl: https://www.gov.uk/get-vehicle-information-from-dvla
+INFO    2018-02-10 13:04:31,259 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:31,268 [main] TestVehicleDetails  - Start Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-10 13:04:33,423 [main] TestVehicleDetails  - Test data Maker Name: BMWActual Maker Name: BMW
+INFO    2018-02-10 13:04:33,423 [main] TestVehicleDetails  - Test data Color Name: BLACKActual Color Name: BLACK
+INFO    2018-02-10 13:04:33,423 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:04:33,423 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:04:33,677 [main] TestVehicleDetails  - End Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-10 13:04:33,677 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:34,284 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:34,284 [main] TestVehicleDetails  - Start Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-10 13:04:36,353 [main] TestVehicleDetails  - You must enter your registration number in a valid format
+INFO    2018-02-10 13:04:36,353 [main] TestVehicleDetails  - End Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-10 13:04:36,353 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:36,983 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:36,983 [main] TestVehicleDetails  - Start Test Execution for Registeration number: HN58KZA
+INFO    2018-02-10 13:04:39,047 [main] TestVehicleDetails  - Test data Maker Name: FIATActual Maker Name: FIAT
+INFO    2018-02-10 13:04:39,068 [main] TestVehicleDetails  - Test data Color Name: BLACKActual Color Name: BLACK
+INFO    2018-02-10 13:04:39,068 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:04:39,068 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:04:39,262 [main] TestVehicleDetails  - End Test Execution for Registeration number: HN58KZA
+INFO    2018-02-10 13:04:39,262 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:39,889 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:39,889 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-10 13:04:41,959 [main] TestVehicleDetails  - Test data Maker Name: MINIActual Maker Name: TOYOTA
+INFO    2018-02-10 13:04:41,959 [main] TestVehicleDetails  - Test data Color Name: WHITEActual Color Name: WHITE
+INFO    2018-02-10 13:04:41,959 [main] TestVehicleDetails  - Test data maker name mismatches with actual data
+INFO    2018-02-10 13:04:41,959 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:04:42,156 [main] TestVehicleDetails  - End Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-10 13:04:42,156 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:42,647 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:42,647 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-10 13:04:44,716 [main] TestVehicleDetails  - Test data Maker Name: TOYOTAActual Maker Name: MINI
+INFO    2018-02-10 13:04:44,716 [main] TestVehicleDetails  - Test data Color Name: ORANGEActual Color Name: ORANGE
+INFO    2018-02-10 13:04:44,717 [main] TestVehicleDetails  - Test data maker name mismatches with actual data
+INFO    2018-02-10 13:04:44,717 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:04:44,927 [main] TestVehicleDetails  - End Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-10 13:04:44,946 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:45,568 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:45,568 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-10 13:04:47,636 [main] TestVehicleDetails  - Test data Maker Name: VOLKSWAGENActual Maker Name: VOLKSWAGEN
+INFO    2018-02-10 13:04:47,636 [main] TestVehicleDetails  - Test data Color Name: SILVERActual Color Name: SILVER
+INFO    2018-02-10 13:04:47,636 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:04:47,636 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:04:47,866 [main] TestVehicleDetails  - End Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-10 13:04:47,866 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:48,324 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:48,324 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-10 13:04:50,386 [main] TestVehicleDetails  - Test data Maker Name: HONDAActual Maker Name: HONDA
+INFO    2018-02-10 13:04:50,386 [main] TestVehicleDetails  - Test data Color Name: BLACKActual Color Name: BLACK
+INFO    2018-02-10 13:04:50,386 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:04:50,386 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:04:50,574 [main] TestVehicleDetails  - End Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-10 13:04:50,574 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:51,099 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:51,100 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LK16WPT
+INFO    2018-02-10 13:04:53,164 [main] TestVehicleDetails  - Test data Maker Name: TOYOTAActual Maker Name: TOYOTA
+INFO    2018-02-10 13:04:53,164 [main] TestVehicleDetails  - Test data Color Name: WHITEActual Color Name: WHITE
+INFO    2018-02-10 13:04:53,164 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:04:53,164 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:04:53,387 [main] TestVehicleDetails  - End Test Execution for Registeration number: LK16WPT
+INFO    2018-02-10 13:04:53,387 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:53,862 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:53,862 [main] TestVehicleDetails  - Start Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-10 13:04:55,911 [main] TestVehicleDetails  - Test data Maker Name: VAUXHALLActual Maker Name: VAUXHALL
+INFO    2018-02-10 13:04:55,911 [main] TestVehicleDetails  - Test data Color Name: BLUEActual Color Name: BLUE
+INFO    2018-02-10 13:04:55,911 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:04:55,911 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:04:56,099 [main] TestVehicleDetails  - End Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-10 13:04:56,157 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:56,658 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:56,658 [main] TestVehicleDetails  - Start Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-10 13:04:58,761 [main] TestVehicleDetails  - Test data Maker Name: LEXUSActual Maker Name: LEXUS
+INFO    2018-02-10 13:04:58,761 [main] TestVehicleDetails  - Test data Color Name: BLUEActual Color Name: BLUE
+INFO    2018-02-10 13:04:58,761 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:04:58,761 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:04:58,935 [main] TestVehicleDetails  - End Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-10 13:04:58,935 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:59,376 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:04:59,376 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-10 13:05:01,397 [main] TestVehicleDetails  - Invalid Registeration number: Y909 TRD
+INFO    2018-02-10 13:05:01,794 [main] TestVehicleDetails  - End Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-10 13:05:01,835 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:05:02,289 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:05:02,289 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Kl51aej
+INFO    2018-02-10 13:05:04,405 [main] TestVehicleDetails  - Test data Maker Name: MINIActual Maker Name: MINI
+INFO    2018-02-10 13:05:04,405 [main] TestVehicleDetails  - Test data Color Name: SILVERActual Color Name: SILVER
+INFO    2018-02-10 13:05:04,406 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:05:04,406 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:05:04,624 [main] TestVehicleDetails  - End Test Execution for Registeration number: Kl51aej
+INFO    2018-02-10 13:05:04,624 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:05:05,059 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:05:05,060 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KM12 AVC
+INFO    2018-02-10 13:05:07,139 [main] TestVehicleDetails  - Test data Maker Name: FIATActual Maker Name: FIAT
+INFO    2018-02-10 13:05:07,139 [main] TestVehicleDetails  - Test data Color Name: WHITEActual Color Name: WHITE
+INFO    2018-02-10 13:05:07,139 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:05:07,139 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:05:07,329 [main] TestVehicleDetails  - End Test Execution for Registeration number: KM12 AVC
+INFO    2018-02-10 13:05:07,329 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:05:07,897 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:05:07,913 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Gv55 Lhw
+INFO    2018-02-10 13:05:10,008 [main] TestVehicleDetails  - Test data Maker Name: TOYOTAActual Maker Name: TOYOTA
+INFO    2018-02-10 13:05:10,008 [main] TestVehicleDetails  - Test data Color Name: SILVERActual Color Name: SILVER
+INFO    2018-02-10 13:05:10,008 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:05:10,008 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:05:10,178 [main] TestVehicleDetails  - End Test Execution for Registeration number: Gv55 Lhw
+INFO    2018-02-10 13:05:10,179 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:05:10,642 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:05:10,642 [main] TestVehicleDetails  - Start Test Execution for Registeration number: VU66ALA
+INFO    2018-02-10 13:05:12,885 [main] TestVehicleDetails  - Test data Maker Name: TOYOTAActual Maker Name: TOYOTA
+INFO    2018-02-10 13:05:12,885 [main] TestVehicleDetails  - Test data Color Name: WHITEActual Color Name: WHITE
+INFO    2018-02-10 13:05:12,885 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:05:12,885 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:05:13,160 [main] TestVehicleDetails  - End Test Execution for Registeration number: VU66ALA
+INFO    2018-02-10 13:05:13,160 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:52:47,766 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-10 13:53:43,452 [main] TestVehicleDetails  - govurl: https://www.gov.uk/get-vehicle-information-from-dvla
+INFO    2018-02-10 13:54:07,706 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:07,726 [main] TestVehicleDetails  - Start Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-10 13:54:09,914 [main] TestVehicleDetails  - Test data Maker Name: BMW Actual Maker Name: BMW
+INFO    2018-02-10 13:54:09,914 [main] TestVehicleDetails  - Test data Color Name: BLACK Actual Color Name: BLACK
+INFO    2018-02-10 13:54:09,914 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:54:09,914 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:54:10,349 [main] TestVehicleDetails  - End Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-10 13:54:10,349 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:11,273 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:11,273 [main] TestVehicleDetails  - Start Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-10 13:54:13,358 [main] TestVehicleDetails  - You must enter your registration number in a valid format
+INFO    2018-02-10 13:54:13,359 [main] TestVehicleDetails  - End Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-10 13:54:13,359 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:14,141 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:14,182 [main] TestVehicleDetails  - Start Test Execution for Registeration number: HN58KZA
+INFO    2018-02-10 13:54:16,257 [main] TestVehicleDetails  - Test data Maker Name: FIAT Actual Maker Name: FIAT
+INFO    2018-02-10 13:54:16,257 [main] TestVehicleDetails  - Test data Color Name: BLACK Actual Color Name: BLACK
+INFO    2018-02-10 13:54:16,257 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:54:16,257 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:54:16,483 [main] TestVehicleDetails  - End Test Execution for Registeration number: HN58KZA
+INFO    2018-02-10 13:54:16,483 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:17,037 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:17,037 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-10 13:54:19,087 [main] TestVehicleDetails  - Test data Maker Name: MINI Actual Maker Name: TOYOTA
+INFO    2018-02-10 13:54:19,087 [main] TestVehicleDetails  - Test data Color Name: WHITE Actual Color Name: WHITE
+INFO    2018-02-10 13:54:19,087 [main] TestVehicleDetails  - Test data maker name mismatches with actual data
+INFO    2018-02-10 13:54:19,088 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:54:19,301 [main] TestVehicleDetails  - End Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-10 13:54:19,301 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:19,773 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:19,774 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-10 13:54:21,828 [main] TestVehicleDetails  - Test data Maker Name: TOYOTA Actual Maker Name: MINI
+INFO    2018-02-10 13:54:21,828 [main] TestVehicleDetails  - Test data Color Name: ORANGE Actual Color Name: ORANGE
+INFO    2018-02-10 13:54:21,829 [main] TestVehicleDetails  - Test data maker name mismatches with actual data
+INFO    2018-02-10 13:54:21,829 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:54:22,033 [main] TestVehicleDetails  - End Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-10 13:54:22,033 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:22,470 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:22,470 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-10 13:54:24,523 [main] TestVehicleDetails  - Test data Maker Name: VOLKSWAGEN Actual Maker Name: VOLKSWAGEN
+INFO    2018-02-10 13:54:24,523 [main] TestVehicleDetails  - Test data Color Name: SILVER Actual Color Name: SILVER
+INFO    2018-02-10 13:54:24,523 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:54:24,523 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:54:24,721 [main] TestVehicleDetails  - End Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-10 13:54:24,721 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:25,209 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:25,227 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-10 13:54:27,272 [main] TestVehicleDetails  - Test data Maker Name: HONDA Actual Maker Name: HONDA
+INFO    2018-02-10 13:54:27,272 [main] TestVehicleDetails  - Test data Color Name: BLACK Actual Color Name: BLACK
+INFO    2018-02-10 13:54:27,272 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:54:27,272 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:54:27,461 [main] TestVehicleDetails  - End Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-10 13:54:27,461 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:28,107 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:28,108 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LK16WPT
+INFO    2018-02-10 13:54:30,186 [main] TestVehicleDetails  - Test data Maker Name: TOYOTA Actual Maker Name: TOYOTA
+INFO    2018-02-10 13:54:30,186 [main] TestVehicleDetails  - Test data Color Name: WHITE Actual Color Name: WHITE
+INFO    2018-02-10 13:54:30,186 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:54:30,186 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:54:30,408 [main] TestVehicleDetails  - End Test Execution for Registeration number: LK16WPT
+INFO    2018-02-10 13:54:30,409 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:30,891 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:30,892 [main] TestVehicleDetails  - Start Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-10 13:54:32,961 [main] TestVehicleDetails  - Test data Maker Name: VAUXHALL Actual Maker Name: VAUXHALL
+INFO    2018-02-10 13:54:32,961 [main] TestVehicleDetails  - Test data Color Name: BLUE Actual Color Name: BLUE
+INFO    2018-02-10 13:54:32,961 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:54:32,962 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:54:33,123 [main] TestVehicleDetails  - End Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-10 13:54:33,123 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:33,589 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:33,590 [main] TestVehicleDetails  - Start Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-10 13:54:35,640 [main] TestVehicleDetails  - Test data Maker Name: LEXUS Actual Maker Name: LEXUS
+INFO    2018-02-10 13:54:35,694 [main] TestVehicleDetails  - Test data Color Name: BLUE Actual Color Name: BLUE
+INFO    2018-02-10 13:54:35,694 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:54:35,694 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:54:35,855 [main] TestVehicleDetails  - End Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-10 13:54:35,855 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:36,444 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:36,444 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-10 13:54:38,467 [main] TestVehicleDetails  - Invalid Registeration number: Y909 TRD
+INFO    2018-02-10 13:54:38,799 [main] TestVehicleDetails  - End Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-10 13:54:38,799 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:39,320 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:39,320 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Kl51aej
+INFO    2018-02-10 13:54:41,402 [main] TestVehicleDetails  - Test data Maker Name: MINI Actual Maker Name: MINI
+INFO    2018-02-10 13:54:41,402 [main] TestVehicleDetails  - Test data Color Name: SILVER Actual Color Name: SILVER
+INFO    2018-02-10 13:54:41,402 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:54:41,402 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:54:41,722 [main] TestVehicleDetails  - End Test Execution for Registeration number: Kl51aej
+INFO    2018-02-10 13:54:41,722 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:42,430 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:42,430 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KM12 AVC
+INFO    2018-02-10 13:54:44,489 [main] TestVehicleDetails  - Test data Maker Name: FIAT Actual Maker Name: FIAT
+INFO    2018-02-10 13:54:44,489 [main] TestVehicleDetails  - Test data Color Name: WHITE Actual Color Name: WHITE
+INFO    2018-02-10 13:54:44,489 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:54:44,489 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:54:44,966 [main] TestVehicleDetails  - End Test Execution for Registeration number: KM12 AVC
+INFO    2018-02-10 13:54:44,966 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:45,901 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:45,901 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Gv55 Lhw
+INFO    2018-02-10 13:54:47,998 [main] TestVehicleDetails  - Test data Maker Name: TOYOTA Actual Maker Name: TOYOTA
+INFO    2018-02-10 13:54:47,998 [main] TestVehicleDetails  - Test data Color Name: SILVER Actual Color Name: SILVER
+INFO    2018-02-10 13:54:47,998 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:54:47,998 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:54:48,388 [main] TestVehicleDetails  - End Test Execution for Registeration number: Gv55 Lhw
+INFO    2018-02-10 13:54:48,427 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:48,851 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 13:54:48,851 [main] TestVehicleDetails  - Start Test Execution for Registeration number: VU66ALA
+INFO    2018-02-10 13:54:50,911 [main] TestVehicleDetails  - Test data Maker Name: TOYOTA Actual Maker Name: TOYOTA
+INFO    2018-02-10 13:54:50,911 [main] TestVehicleDetails  - Test data Color Name: WHITE Actual Color Name: WHITE
+INFO    2018-02-10 13:54:50,911 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 13:54:50,911 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 13:54:51,081 [main] TestVehicleDetails  - End Test Execution for Registeration number: VU66ALA
+INFO    2018-02-10 13:54:51,081 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:31:28,408 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-10 14:32:44,049 [main] TestVehicleDetails  - govurl: https://www.gov.uk/get-vehicle-information-from-dvla
+INFO    2018-02-10 14:32:57,934 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:32:57,945 [main] TestVehicleDetails  - Start Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-10 14:33:00,091 [main] TestVehicleDetails  - Test data Maker Name: BMW Actual Maker Name: BMW
+INFO    2018-02-10 14:33:00,091 [main] TestVehicleDetails  - Test data Color Name: BLACK Actual Color Name: BLACK
+INFO    2018-02-10 14:33:00,091 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 14:33:00,092 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 14:33:00,526 [main] TestVehicleDetails  - End Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-10 14:33:00,526 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:01,075 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:01,076 [main] TestVehicleDetails  - Start Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-10 14:33:03,149 [main] TestVehicleDetails  - You must enter your registration number in a valid format
+INFO    2018-02-10 14:33:03,150 [main] TestVehicleDetails  - End Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-10 14:33:03,150 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:04,569 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:04,600 [main] TestVehicleDetails  - Start Test Execution for Registeration number: HN58KZA
+INFO    2018-02-10 14:33:12,337 [main] TestVehicleDetails  - Test data Maker Name: FIAT Actual Maker Name: FIAT
+INFO    2018-02-10 14:33:12,337 [main] TestVehicleDetails  - Test data Color Name: BLACK Actual Color Name: BLACK
+INFO    2018-02-10 14:33:12,337 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 14:33:12,337 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 14:33:13,133 [main] TestVehicleDetails  - End Test Execution for Registeration number: HN58KZA
+INFO    2018-02-10 14:33:13,133 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:14,105 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:14,105 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-10 14:33:16,180 [main] TestVehicleDetails  - Test data Maker Name: MINI Actual Maker Name: TOYOTA
+INFO    2018-02-10 14:33:16,234 [main] TestVehicleDetails  - Test data Color Name: WHITE Actual Color Name: WHITE
+INFO    2018-02-10 14:33:16,234 [main] TestVehicleDetails  - Test data maker name mismatches with actual data
+INFO    2018-02-10 14:33:16,234 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 14:33:16,442 [main] TestVehicleDetails  - End Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-10 14:33:16,443 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:17,055 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:17,055 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-10 14:33:19,110 [main] TestVehicleDetails  - Test data Maker Name: TOYOTA Actual Maker Name: MINI
+INFO    2018-02-10 14:33:19,110 [main] TestVehicleDetails  - Test data Color Name: ORANGE Actual Color Name: ORANGE
+INFO    2018-02-10 14:33:19,110 [main] TestVehicleDetails  - Test data maker name mismatches with actual data
+INFO    2018-02-10 14:33:19,110 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 14:33:19,345 [main] TestVehicleDetails  - End Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-10 14:33:19,345 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:19,875 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:19,875 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-10 14:33:21,928 [main] TestVehicleDetails  - Test data Maker Name: VOLKSWAGEN Actual Maker Name: VOLKSWAGEN
+INFO    2018-02-10 14:33:21,928 [main] TestVehicleDetails  - Test data Color Name: SILVER Actual Color Name: SILVER
+INFO    2018-02-10 14:33:21,928 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 14:33:21,928 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 14:33:22,129 [main] TestVehicleDetails  - End Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-10 14:33:22,129 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:22,603 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:22,603 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-10 14:33:24,676 [main] TestVehicleDetails  - Test data Maker Name: HONDA Actual Maker Name: HONDA
+INFO    2018-02-10 14:33:24,676 [main] TestVehicleDetails  - Test data Color Name: BLACK Actual Color Name: BLACK
+INFO    2018-02-10 14:33:24,676 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 14:33:24,676 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 14:33:24,894 [main] TestVehicleDetails  - End Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-10 14:33:24,894 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:25,370 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:25,370 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LK16WPT
+INFO    2018-02-10 14:33:27,421 [main] TestVehicleDetails  - Test data Maker Name: TOYOTA Actual Maker Name: TOYOTA
+INFO    2018-02-10 14:33:27,421 [main] TestVehicleDetails  - Test data Color Name: WHITE Actual Color Name: WHITE
+INFO    2018-02-10 14:33:27,421 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 14:33:27,421 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 14:33:27,610 [main] TestVehicleDetails  - End Test Execution for Registeration number: LK16WPT
+INFO    2018-02-10 14:33:27,611 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:28,108 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:28,108 [main] TestVehicleDetails  - Start Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-10 14:33:30,158 [main] TestVehicleDetails  - Test data Maker Name: VAUXHALL Actual Maker Name: VAUXHALL
+INFO    2018-02-10 14:33:30,158 [main] TestVehicleDetails  - Test data Color Name: BLUE Actual Color Name: BLUE
+INFO    2018-02-10 14:33:30,158 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 14:33:30,159 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 14:33:30,323 [main] TestVehicleDetails  - End Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-10 14:33:30,335 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:30,959 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:30,959 [main] TestVehicleDetails  - Start Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-10 14:33:33,139 [main] TestVehicleDetails  - Test data Maker Name: LEXUS Actual Maker Name: LEXUS
+INFO    2018-02-10 14:33:33,140 [main] TestVehicleDetails  - Test data Color Name: BLUE Actual Color Name: BLUE
+INFO    2018-02-10 14:33:33,140 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 14:33:33,140 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 14:33:33,380 [main] TestVehicleDetails  - End Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-10 14:33:33,380 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:33,923 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:33,923 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-10 14:33:35,959 [main] TestVehicleDetails  - Invalid Registeration number: Y909 TRD
+INFO    2018-02-10 14:33:36,300 [main] TestVehicleDetails  - End Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-10 14:33:36,301 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:36,760 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:36,760 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Kl51aej
+INFO    2018-02-10 14:33:38,821 [main] TestVehicleDetails  - Test data Maker Name: MINI Actual Maker Name: MINI
+INFO    2018-02-10 14:33:38,821 [main] TestVehicleDetails  - Test data Color Name: SILVER Actual Color Name: SILVER
+INFO    2018-02-10 14:33:38,821 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 14:33:38,821 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 14:33:39,008 [main] TestVehicleDetails  - End Test Execution for Registeration number: Kl51aej
+INFO    2018-02-10 14:33:39,008 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:39,650 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:39,651 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KM12 AVC
+INFO    2018-02-10 14:33:41,700 [main] TestVehicleDetails  - Test data Maker Name: FIAT Actual Maker Name: FIAT
+INFO    2018-02-10 14:33:41,700 [main] TestVehicleDetails  - Test data Color Name: WHITE Actual Color Name: WHITE
+INFO    2018-02-10 14:33:41,700 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 14:33:41,700 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 14:33:41,896 [main] TestVehicleDetails  - End Test Execution for Registeration number: KM12 AVC
+INFO    2018-02-10 14:33:41,896 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:42,365 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:42,444 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Gv55 Lhw
+INFO    2018-02-10 14:33:44,502 [main] TestVehicleDetails  - Test data Maker Name: TOYOTA Actual Maker Name: TOYOTA
+INFO    2018-02-10 14:33:44,535 [main] TestVehicleDetails  - Test data Color Name: SILVER Actual Color Name: SILVER
+INFO    2018-02-10 14:33:44,536 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 14:33:44,536 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 14:33:44,769 [main] TestVehicleDetails  - End Test Execution for Registeration number: Gv55 Lhw
+INFO    2018-02-10 14:33:44,769 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:45,318 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 14:33:45,318 [main] TestVehicleDetails  - Start Test Execution for Registeration number: VU66ALA
+INFO    2018-02-10 14:33:47,380 [main] TestVehicleDetails  - Test data Maker Name: TOYOTA Actual Maker Name: TOYOTA
+INFO    2018-02-10 14:33:47,380 [main] TestVehicleDetails  - Test data Color Name: WHITE Actual Color Name: WHITE
+INFO    2018-02-10 14:33:47,380 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 14:33:47,380 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 14:33:47,613 [main] TestVehicleDetails  - End Test Execution for Registeration number: VU66ALA
+INFO    2018-02-10 14:33:47,613 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:33:43,132 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-10 17:34:44,922 [main] TestVehicleDetails  - govurl: https://www.gov.uk/get-vehicle-information-from-dvla
+INFO    2018-02-10 17:35:12,715 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:12,741 [main] TestVehicleDetails  - Start Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-10 17:35:14,837 [main] TestVehicleDetails  - Test data Maker Name: BMW Actual Maker Name: BMW
+INFO    2018-02-10 17:35:14,837 [main] TestVehicleDetails  - Test data Color Name: BLACK Actual Color Name: BLACK
+INFO    2018-02-10 17:35:14,838 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 17:35:14,838 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 17:35:15,354 [main] TestVehicleDetails  - End Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-10 17:35:15,354 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:15,848 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:15,848 [main] TestVehicleDetails  - Start Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-10 17:35:17,920 [main] TestVehicleDetails  - You must enter your registration number in a valid format
+INFO    2018-02-10 17:35:17,988 [main] TestVehicleDetails  - End Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-10 17:35:17,988 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:18,919 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:18,930 [main] TestVehicleDetails  - Start Test Execution for Registeration number: HN58KZA
+INFO    2018-02-10 17:35:20,980 [main] TestVehicleDetails  - Test data Maker Name: FIAT Actual Maker Name: FIAT
+INFO    2018-02-10 17:35:20,980 [main] TestVehicleDetails  - Test data Color Name: BLACK Actual Color Name: BLACK
+INFO    2018-02-10 17:35:20,980 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 17:35:20,980 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 17:35:21,408 [main] TestVehicleDetails  - End Test Execution for Registeration number: HN58KZA
+INFO    2018-02-10 17:35:21,408 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:22,046 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:22,046 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-10 17:35:24,099 [main] TestVehicleDetails  - Test data Maker Name: MINI Actual Maker Name: TOYOTA
+INFO    2018-02-10 17:35:24,099 [main] TestVehicleDetails  - Test data Color Name: WHITE Actual Color Name: WHITE
+INFO    2018-02-10 17:35:24,099 [main] TestVehicleDetails  - Test data maker name mismatches with actual data
+INFO    2018-02-10 17:35:24,099 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 17:35:24,336 [main] TestVehicleDetails  - End Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-10 17:35:24,336 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:25,028 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:25,086 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-10 17:35:27,139 [main] TestVehicleDetails  - Test data Maker Name: TOYOTA Actual Maker Name: MINI
+INFO    2018-02-10 17:35:27,139 [main] TestVehicleDetails  - Test data Color Name: ORANGE Actual Color Name: ORANGE
+INFO    2018-02-10 17:35:27,139 [main] TestVehicleDetails  - Test data maker name mismatches with actual data
+INFO    2018-02-10 17:35:27,139 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 17:35:27,483 [main] TestVehicleDetails  - End Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-10 17:35:27,483 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:28,035 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:28,035 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-10 17:35:30,088 [main] TestVehicleDetails  - Test data Maker Name: VOLKSWAGEN Actual Maker Name: VOLKSWAGEN
+INFO    2018-02-10 17:35:30,088 [main] TestVehicleDetails  - Test data Color Name: SILVER Actual Color Name: SILVER
+INFO    2018-02-10 17:35:30,088 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 17:35:30,089 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 17:35:30,338 [main] TestVehicleDetails  - End Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-10 17:35:30,338 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:30,889 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:30,897 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-10 17:35:32,955 [main] TestVehicleDetails  - Test data Maker Name: HONDA Actual Maker Name: HONDA
+INFO    2018-02-10 17:35:32,955 [main] TestVehicleDetails  - Test data Color Name: BLACK Actual Color Name: BLACK
+INFO    2018-02-10 17:35:32,956 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 17:35:32,956 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 17:35:33,200 [main] TestVehicleDetails  - End Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-10 17:35:33,200 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:33,823 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:33,823 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LK16WPT
+INFO    2018-02-10 17:35:35,875 [main] TestVehicleDetails  - Test data Maker Name: TOYOTA Actual Maker Name: TOYOTA
+INFO    2018-02-10 17:35:35,875 [main] TestVehicleDetails  - Test data Color Name: WHITE Actual Color Name: WHITE
+INFO    2018-02-10 17:35:35,875 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 17:35:35,875 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 17:35:36,136 [main] TestVehicleDetails  - End Test Execution for Registeration number: LK16WPT
+INFO    2018-02-10 17:35:36,136 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:36,934 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:36,934 [main] TestVehicleDetails  - Start Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-10 17:35:38,982 [main] TestVehicleDetails  - Test data Maker Name: VAUXHALL Actual Maker Name: VAUXHALL
+INFO    2018-02-10 17:35:38,982 [main] TestVehicleDetails  - Test data Color Name: BLUE Actual Color Name: BLUE
+INFO    2018-02-10 17:35:38,982 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 17:35:38,982 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 17:35:39,326 [main] TestVehicleDetails  - End Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-10 17:35:39,326 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:39,813 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:39,813 [main] TestVehicleDetails  - Start Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-10 17:35:41,901 [main] TestVehicleDetails  - Test data Maker Name: LEXUS Actual Maker Name: LEXUS
+INFO    2018-02-10 17:35:41,901 [main] TestVehicleDetails  - Test data Color Name: BLUE Actual Color Name: BLUE
+INFO    2018-02-10 17:35:41,901 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 17:35:41,902 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 17:35:42,174 [main] TestVehicleDetails  - End Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-10 17:35:42,186 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:42,694 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:42,694 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-10 17:35:44,708 [main] TestVehicleDetails  - Invalid Registeration number: Y909 TRD
+INFO    2018-02-10 17:35:45,041 [main] TestVehicleDetails  - End Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-10 17:35:45,041 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:45,634 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:45,634 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Kl51aej
+INFO    2018-02-10 17:35:47,685 [main] TestVehicleDetails  - Test data Maker Name: MINI Actual Maker Name: MINI
+INFO    2018-02-10 17:35:47,685 [main] TestVehicleDetails  - Test data Color Name: SILVER Actual Color Name: SILVER
+INFO    2018-02-10 17:35:47,685 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 17:35:47,685 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 17:35:47,890 [main] TestVehicleDetails  - End Test Execution for Registeration number: Kl51aej
+INFO    2018-02-10 17:35:47,890 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:48,404 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:48,420 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KM12 AVC
+INFO    2018-02-10 17:35:50,519 [main] TestVehicleDetails  - Test data Maker Name: FIAT Actual Maker Name: FIAT
+INFO    2018-02-10 17:35:50,519 [main] TestVehicleDetails  - Test data Color Name: WHITE Actual Color Name: WHITE
+INFO    2018-02-10 17:35:50,519 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 17:35:50,519 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 17:35:50,819 [main] TestVehicleDetails  - End Test Execution for Registeration number: KM12 AVC
+INFO    2018-02-10 17:35:50,819 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:51,491 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:51,491 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Gv55 Lhw
+INFO    2018-02-10 17:35:53,538 [main] TestVehicleDetails  - Test data Maker Name: TOYOTA Actual Maker Name: TOYOTA
+INFO    2018-02-10 17:35:53,538 [main] TestVehicleDetails  - Test data Color Name: SILVER Actual Color Name: SILVER
+INFO    2018-02-10 17:35:53,538 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 17:35:53,538 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 17:35:53,752 [main] TestVehicleDetails  - End Test Execution for Registeration number: Gv55 Lhw
+INFO    2018-02-10 17:35:53,752 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:54,249 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 17:35:54,276 [main] TestVehicleDetails  - Start Test Execution for Registeration number: VU66ALA
+INFO    2018-02-10 17:35:56,346 [main] TestVehicleDetails  - Test data Maker Name: TOYOTA Actual Maker Name: TOYOTA
+INFO    2018-02-10 17:35:56,347 [main] TestVehicleDetails  - Test data Color Name: WHITE Actual Color Name: WHITE
+INFO    2018-02-10 17:35:56,347 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 17:35:56,347 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 17:35:56,615 [main] TestVehicleDetails  - End Test Execution for Registeration number: VU66ALA
+INFO    2018-02-10 17:35:56,615 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:14:46,850 [main] TestVehicleDetails  - TestVehicleDetails START
+INFO    2018-02-10 18:15:57,867 [main] TestVehicleDetails  - govurl: https://www.gov.uk/get-vehicle-information-from-dvla
+INFO    2018-02-10 18:16:13,019 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:13,041 [main] TestVehicleDetails  - Start Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-10 18:16:15,170 [main] TestVehicleDetails  - Test data Maker Name: BMW Actual Maker Name: BMW
+INFO    2018-02-10 18:16:15,170 [main] TestVehicleDetails  - Test data Color Name: BLACK Actual Color Name: BLACK
+INFO    2018-02-10 18:16:15,170 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 18:16:15,170 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 18:16:15,571 [main] TestVehicleDetails  - End Test Execution for Registeration number: TR58 KCR
+INFO    2018-02-10 18:16:15,571 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:16,030 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:16,030 [main] TestVehicleDetails  - Start Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-10 18:16:18,096 [main] TestVehicleDetails  - You must enter your registration number in a valid format
+INFO    2018-02-10 18:16:18,164 [main] TestVehicleDetails  - End Test Execution for Registeration number: MD55 0F0
+INFO    2018-02-10 18:16:18,164 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:18,862 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:18,874 [main] TestVehicleDetails  - Start Test Execution for Registeration number: HN58KZA
+INFO    2018-02-10 18:16:20,920 [main] TestVehicleDetails  - Test data Maker Name: FIAT Actual Maker Name: FIAT
+INFO    2018-02-10 18:16:20,920 [main] TestVehicleDetails  - Test data Color Name: BLACK Actual Color Name: BLACK
+INFO    2018-02-10 18:16:20,920 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 18:16:20,920 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 18:16:21,168 [main] TestVehicleDetails  - End Test Execution for Registeration number: HN58KZA
+INFO    2018-02-10 18:16:21,168 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:21,921 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:21,921 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-10 18:16:23,972 [main] TestVehicleDetails  - Test data Maker Name: MINI Actual Maker Name: TOYOTA
+INFO    2018-02-10 18:16:23,972 [main] TestVehicleDetails  - Test data Color Name: WHITE Actual Color Name: WHITE
+INFO    2018-02-10 18:16:23,972 [main] TestVehicleDetails  - Test data maker name mismatches with actual data
+INFO    2018-02-10 18:16:23,972 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 18:16:24,315 [main] TestVehicleDetails  - End Test Execution for Registeration number: KV65 ETD
+INFO    2018-02-10 18:16:24,330 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:24,870 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:24,871 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-10 18:16:26,918 [main] TestVehicleDetails  - Test data Maker Name: TOYOTA Actual Maker Name: MINI
+INFO    2018-02-10 18:16:26,918 [main] TestVehicleDetails  - Test data Color Name: ORANGE Actual Color Name: ORANGE
+INFO    2018-02-10 18:16:26,919 [main] TestVehicleDetails  - Test data maker name mismatches with actual data
+INFO    2018-02-10 18:16:26,919 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 18:16:27,141 [main] TestVehicleDetails  - End Test Execution for Registeration number: KP15 TKY
+INFO    2018-02-10 18:16:27,142 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:27,944 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:27,944 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-10 18:16:30,001 [main] TestVehicleDetails  - Test data Maker Name: VOLKSWAGEN Actual Maker Name: VOLKSWAGEN
+INFO    2018-02-10 18:16:30,019 [main] TestVehicleDetails  - Test data Color Name: SILVER Actual Color Name: SILVER
+INFO    2018-02-10 18:16:30,019 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 18:16:30,020 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 18:16:30,281 [main] TestVehicleDetails  - End Test Execution for Registeration number: LM02 BKX
+INFO    2018-02-10 18:16:30,281 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:30,775 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:30,775 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-10 18:16:32,827 [main] TestVehicleDetails  - Test data Maker Name: HONDA Actual Maker Name: HONDA
+INFO    2018-02-10 18:16:32,827 [main] TestVehicleDetails  - Test data Color Name: BLACK Actual Color Name: BLACK
+INFO    2018-02-10 18:16:32,827 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 18:16:32,827 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 18:16:33,059 [main] TestVehicleDetails  - End Test Execution for Registeration number: KE06 TLJ
+INFO    2018-02-10 18:16:33,059 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:33,546 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:33,547 [main] TestVehicleDetails  - Start Test Execution for Registeration number: LK16WPT
+INFO    2018-02-10 18:16:35,598 [main] TestVehicleDetails  - Test data Maker Name: TOYOTA Actual Maker Name: TOYOTA
+INFO    2018-02-10 18:16:35,598 [main] TestVehicleDetails  - Test data Color Name: WHITE Actual Color Name: WHITE
+INFO    2018-02-10 18:16:35,598 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 18:16:35,598 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 18:16:35,829 [main] TestVehicleDetails  - End Test Execution for Registeration number: LK16WPT
+INFO    2018-02-10 18:16:35,829 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:36,553 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:36,553 [main] TestVehicleDetails  - Start Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-10 18:16:38,608 [main] TestVehicleDetails  - Test data Maker Name: VAUXHALL Actual Maker Name: VAUXHALL
+INFO    2018-02-10 18:16:38,609 [main] TestVehicleDetails  - Test data Color Name: BLUE Actual Color Name: BLUE
+INFO    2018-02-10 18:16:38,609 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 18:16:38,609 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 18:16:39,133 [main] TestVehicleDetails  - End Test Execution for Registeration number: DU17 XKE
+INFO    2018-02-10 18:16:39,133 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:39,751 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:39,751 [main] TestVehicleDetails  - Start Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-10 18:16:41,794 [main] TestVehicleDetails  - Test data Maker Name: LEXUS Actual Maker Name: LEXUS
+INFO    2018-02-10 18:16:41,794 [main] TestVehicleDetails  - Test data Color Name: BLUE Actual Color Name: BLUE
+INFO    2018-02-10 18:16:41,794 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 18:16:41,794 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 18:16:42,025 [main] TestVehicleDetails  - End Test Execution for Registeration number: AV04 FVG
+INFO    2018-02-10 18:16:42,064 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:42,778 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:42,778 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-10 18:16:44,797 [main] TestVehicleDetails  - Invalid Registeration number: Y909 TRD
+INFO    2018-02-10 18:16:45,166 [main] TestVehicleDetails  - End Test Execution for Registeration number: Y909 TRD
+INFO    2018-02-10 18:16:45,166 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:45,665 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:45,666 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Kl51aej
+INFO    2018-02-10 18:16:47,909 [main] TestVehicleDetails  - Test data Maker Name: MINI Actual Maker Name: MINI
+INFO    2018-02-10 18:16:47,920 [main] TestVehicleDetails  - Test data Color Name: SILVER Actual Color Name: SILVER
+INFO    2018-02-10 18:16:47,920 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 18:16:47,920 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 18:16:48,131 [main] TestVehicleDetails  - End Test Execution for Registeration number: Kl51aej
+INFO    2018-02-10 18:16:48,132 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:48,607 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:48,607 [main] TestVehicleDetails  - Start Test Execution for Registeration number: KM12 AVC
+INFO    2018-02-10 18:16:50,691 [main] TestVehicleDetails  - Test data Maker Name: FIAT Actual Maker Name: FIAT
+INFO    2018-02-10 18:16:50,691 [main] TestVehicleDetails  - Test data Color Name: WHITE Actual Color Name: WHITE
+INFO    2018-02-10 18:16:50,691 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 18:16:50,692 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 18:16:50,906 [main] TestVehicleDetails  - End Test Execution for Registeration number: KM12 AVC
+INFO    2018-02-10 18:16:50,906 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:51,596 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:51,596 [main] TestVehicleDetails  - Start Test Execution for Registeration number: Gv55 Lhw
+INFO    2018-02-10 18:16:53,691 [main] TestVehicleDetails  - Test data Maker Name: TOYOTA Actual Maker Name: TOYOTA
+INFO    2018-02-10 18:16:53,742 [main] TestVehicleDetails  - Test data Color Name: SILVER Actual Color Name: SILVER
+INFO    2018-02-10 18:16:53,742 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 18:16:53,742 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 18:16:54,054 [main] TestVehicleDetails  - End Test Execution for Registeration number: Gv55 Lhw
+INFO    2018-02-10 18:16:54,054 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:54,557 [main] TestVehicleDetails  - **************************************************************************************
+INFO    2018-02-10 18:16:54,557 [main] TestVehicleDetails  - Start Test Execution for Registeration number: VU66ALA
+INFO    2018-02-10 18:16:56,619 [main] TestVehicleDetails  - Test data Maker Name: TOYOTA Actual Maker Name: TOYOTA
+INFO    2018-02-10 18:16:56,619 [main] TestVehicleDetails  - Test data Color Name: WHITE Actual Color Name: WHITE
+INFO    2018-02-10 18:16:56,619 [main] TestVehicleDetails  - Test data maker name matches with actual data
+INFO    2018-02-10 18:16:56,619 [main] TestVehicleDetails  - Test data color matches with actual data
+INFO    2018-02-10 18:16:56,905 [main] TestVehicleDetails  - End Test Execution for Registeration number: VU66ALA
+INFO    2018-02-10 18:16:56,905 [main] TestVehicleDetails  - **************************************************************************************
